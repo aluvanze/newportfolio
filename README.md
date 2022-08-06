@@ -1,4 +1,4 @@
-A sketch portfolio of  a person
+A sketch portfolio for  a person
 
 # newportfolio
 its a one page poerfolio containing alot of css styles that most of you will like to include in your pages creation

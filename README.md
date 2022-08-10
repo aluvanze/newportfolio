@@ -9,5 +9,6 @@ The home section contains a background picture and also a Hire Me button
 <li>2.the portfolio page</li>
 It contains css styling which has grouped  several pictures in a certain arrangement
 <li>3.the services section</li>
+Specifies the type of services offered by individual
 <li>4.The contact me section</li>
 It contains Name textbox,Email placeholder and an area that allows typing of message to  be conveyed
